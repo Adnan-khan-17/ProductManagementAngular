@@ -1,0 +1,23 @@
+{
+    "Products":[
+        {
+            "id":1,
+            "Name": "Apple",
+            "Quantity": 10,
+            "Prize": 80000
+        },
+        {
+            "id":2,
+            "Name": "Samsung",
+            "Quantity": 15,
+            "Prize": 55000
+        },
+        {
+            "id":3,
+            "Name": "Xiomi",
+            "Quantity": 20,
+            "Prize": 15000
+        }
+        
+    ]
+}
